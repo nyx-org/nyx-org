@@ -1,5 +1,5 @@
-### Hi, I'm Deka Panji Kinarayana
-Undergraduate student at Institut Teknologi Sepuluh Nopember (ITS), majoring in Information Technology. Focused on systems, networks, backend development, and automation.
+### Hi, I'm D3k4 P4nji K1n4r4y4n4
+Undergraduate student at Institut Teknologi Sepuluh Nopember (ITS), majoring in 1nformation Technology. Focused on systems, networks, backend development, and automation.
 
 ---
 
@@ -23,4 +23,4 @@ Undergraduate student at Institut Teknologi Sepuluh Nopember (ITS), majoring in 
 ---
 
 ### 📫 Connect
-* LinkedIn: [Deka Panji Kinarayana](https://www.linkedin.com/in/deka-panji-kinarayana-abb088430/)
+* LinkedIn: [D3ka P4nji K1narayana](https://www.linkedin.com/in/deka-panji-kinarayana-abb088430/)
