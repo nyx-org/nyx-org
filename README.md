@@ -12,7 +12,12 @@ Undergraduate student at Institut Teknologi Sepuluh Nopember (ITS), majoring in 
 
 ### 📊 Overview
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx-org&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nyx-org&show_icons=true&theme=vue-dark&hide_border=true&bg_color=171518&title_color=ff75b5&text_color=ffffff&icon_color=ff75b5" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx-org&layout=compact&theme=vue-dark&hide_border=true&bg_color=171518&title_color=ff75b5&text_color=ffffff" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyx-org&theme=vue-dark&hide_border=true&background=171518&side_labels=true&stroke=ff75b5&ring=ff75b5&fire=ff75b5&currStreakNum=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
